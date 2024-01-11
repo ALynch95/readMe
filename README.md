@@ -60,12 +60,6 @@ For a detailed tutorial on how to use our API, refer to the [API Tutorial](docs/
 
 Explore the [Conceptual Documentation](docs/CONCEPTS.md) for a deeper understanding of how different APIs and functions work together in applications.
 
-## Acceptance Criteria
-
-- A README.md file should exist with title, description, demo, technologies, technical information, and issues.
-- Either the README.md file or a docs folder should contain API documentation describing all application endpoints.
-- A changelog generated from commit history should exist.
-
 ## Self-Review Checklist
 
 - [x] Code formatting is consistent.
