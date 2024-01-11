@@ -6,7 +6,7 @@ This project is a social media platform that allows users to share photos, conne
 
 ## Demo
 
-(https://github.com/ALynch95/readMe)
+[Live Demo](https://github.com/ALynch95/readMe)
 
 ## Technologies
 
