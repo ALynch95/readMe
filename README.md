@@ -19,7 +19,7 @@ This project is a social media platform that allows users to share photos, conne
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/project-x.git`
+1. Clone the repository: `git clone https://github.com/ALynch95/project-x.git`
 2. Install frontend dependencies: `cd frontend && npm install`
 3. Install backend dependencies: `cd backend && npm install`
 
